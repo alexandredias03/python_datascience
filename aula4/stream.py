@@ -38,3 +38,5 @@ st.subheader("Receita Mensal")
 fig2, ax2 = plt.subplots()
 df.groupby("Mês")["Receita"].sum().plot(ax=ax2)
 st.pyplot(fig2)
+
+## python -m streamlit run aula4/stream.py
