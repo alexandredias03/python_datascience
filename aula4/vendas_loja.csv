@@ -1,0 +1,101 @@
+Data,Produto,Categoria,Quantidade,Preço_Unitario
+2023-01-05,Smartphone,Eletrônicos,2,1500
+2023-01-12,Camiseta,Roupas,5,50
+2023-02-03,Notebook,Eletrônicos,1,3000
+2023-02-03,Arroz,Alimentos,10,20
+2023-03-15,Smartphone,Eletrônicos,3,1500
+2023-03-25,Tenis,Roupas,2,250
+2023-03-18,Notebook,Eletrônicos,1,3000
+2023-11-18,Camiseta,Roupas,6,50
+2023-01-05,Arroz,Alimentos,8,20
+2023-03-21,Tenis,Roupas,3,250
+2025-07-01,Camiseta Polo,Roupas,12,89.90
+2025-07-01,Notebook Gamer,Eletrônicos,3,5499.00
+2025-01-02,Sabonete Líquido,Higiene,25,9.99
+2025-07-02,Chinelo Havaianas,Calçados,18,39.90
+2025-06-03,Monitor LED 24",Eletrônicos,7,899.90
+2025-04-04,Calça Jeans,Roupas,9,129.90
+2025-01-04,Creme Dental Colgate,Higiene,40,4.50
+2025-12-05,Tenis Esportivo,Calçados,5,199.90
+2025-09-06,Smartphone Android,Eletrônicos,4,2299.00
+2025-08-06,Blusa de Moletom,Roupas,8,159.90
+2025-05-07,Shampoo Anticaspa,Higiene,30,12.90
+2025-03-07,Sandália Feminina,Calçados,10,89.90
+2025-04-08,Fone Bluetooth,Eletrônicos,15,149.90
+2025-12-09,Camiseta Básica,Roupas,20,49.90
+2025-08-09,Desodorante Aerosol,Higiene,35,11.50
+2025-07-10,Bota de Couro,Calçados,6,349.90
+2025-10-11,Tablet 10",Eletrônicos,2,1599.00
+2025-10-11,Jaqueta Corta Vento,Roupas,4,229.90
+2025-01-12,Sabonete em Barra,Higiene,50,2.99
+2025-07-12,Sapatênis Masculino,Calçados,7,219.90
+2025-01-12,Relógio Digital,Eletrônicos,10,299.90
+2025-04-08,Mouse Sem Fio,Eletrônicos,12,119.90
+2025-03-07,Álcool em Gel,Higiene,45,5.99
+2025-02-03,Sapatilha Feminina,Calçados,11,129.90
+2025-04-06,Tênis Casual,Calçados,8,179.90
+2025-05-02,Short Jeans,Roupas,10,69.90
+2025-03-05,Regata Esportiva,Roupas,17,39.90
+2025-01-13,Bermuda Masculina,Roupas,14,79.90
+2025-04-01,Casaco de Lã,Roupas,5,249.90
+2025-03-12,Caixa de Som Bluetooth,Eletrônicos,7,199.00
+2025-05-09,Webcam HD,Eletrônicos,5,229.90
+2025-02-18,Teclado Mecânico,Eletrônicos,6,349.90
+2025-05-04,Lenços Umedecidos,Higiene,35,7.50
+2025-02-02,Escova de Dente,Higiene,60,3.99
+2025-04-03,Creme Hidratante,Higiene,28,14.90
+2025-03-09,Bota Feminina,Calçados,4,389.90
+2025-05-07,Chuteira Society,Calçados,6,249.90
+2025-06-11,Camiseta Estampada,Roupas,13,59.90
+2025-06-14,Notebook UltraSlim,Eletrônicos,3,4699.00
+2025-07-03,Monitor LED 24",Eletrônicos,7,899.90
+2025-06-15,Desodorante Roll-on,Higiene,22,10.90
+2025-07-02,Chinelo Havaianas,Calçados,18,39.90
+2025-05-22,Moletom Canguru,Roupas,9,139.90
+2025-01-28,Bateria Portátil,Eletrônicos,10,89.90
+2025-02-22,Calça Legging,Roupas,11,99.90
+2025-07-05,Tênis Esportivo,Calçados,5,199.90
+2025-06-01,Escova Elétrica,Higiene,8,99.90
+2025-03-27,Meia Esportiva,Roupas,20,19.90
+2025-06-20,Smartwatch Pro,Eletrônicos,4,799.90
+2025-02-14,Coturno Masculino,Calçados,3,319.90
+2025-06-10,Arroz Agulhinha 5kg,Alimentos,15,23.90
+2025-05-18,Feijão Carioca 1kg,Alimentos,20,8.49
+2025-04-25,Óleo de Soja 900ml,Alimentos,10000,6.79
+2025-03-11,Leite Integral 1L,Alimentos,25,4.89
+2025-07-20,Café Torrado e Moído 500g,Alimentos,18,16.50
+2025-01-06,Macarrão Espaguete 500g,Alimentos,22,3.99
+2025-02-17,Açúcar Refinado 1kg,Alimentos,27,4.29
+2025-05-27,Fubá Mimoso 1kg,Alimentos,19,2.99
+2025-03-30,Achocolatado em Pó 400g,Alimentos,12,7.90
+2025-06-04,Farinha de Trigo 1kg,Alimentos,21,4.59
+2025-07-01,Camisa Polo,Roupas,10,89.99
+2025-07-02,Calça Jeans,Roupas,15,129.90
+2025-07-03,Blusa de Frio,Roupas,8,159.99
+2025-07-04,Jaqueta de Couro,Roupas,5,349.90
+2025-07-05,Tênis Esportivo,Roupas,20,199.99
+2025-07-06,Vestido Casual,Roupas,7,129.90
+2025-07-07,Bermuda Masculina,Roupas,12,69.90
+2025-07-08,Saia Longa,Roupas,9,79.90
+2025-07-09,Blusa de Manga Curta,Roupas,30,49.90
+2025-07-10,Calça Legging,Roupas,25,59.90
+2025-07-11,T-shirt Estampada,Roupas,40,39.90
+2025-07-12,Jaqueta Jeans,Roupas,6,119.90
+2025-07-13,Short Feminino,Roupas,10,59.90
+2025-07-14,Blazer Masculino,Roupas,3,299.90
+2025-07-15,Camiseta Básica,Roupas,35,29.90
+2025-07-16,Sapatilha Feminina,Roupas,15,79.90
+2025-07-17,Camisa de Manga Longa,Roupas,12,79.90
+2025-07-18,Bota de Cano Curto,Roupas,8,199.90
+2025-07-19,Regata Feminina,Roupas,10,39.90
+2025-07-20,Blusa de Cropped,Roupas,15,69.90
+2025-07-21,Calça Pantalona,Roupas,7,149.90
+2025-07-22,Sapato Social,Roupas,4,239.90
+2025-07-23,Meia Esportiva,Roupas,50,9.90
+2025-07-24,Tênis Casual,Roupas,18,129.90
+2025-07-25,Kimono Feminino,Roupas,6,89.90
+2025-07-01,Paletó de Lã,Roupas,5,999.99
+2025-07-02,Camiseta de Marca Exclusiva,Roupas,10,499.90
+2025-07-03,Jaqueta de Couro Premium,Roupas,100,1299.90
+2025-07-04,Bota de Couro Italiana,Roupas,50,799.90
+
